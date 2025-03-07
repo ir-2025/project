@@ -31,6 +31,22 @@ const Questions = [
             {text: "250,000.", isCorrect: true},
            ]
     },
+    {
+        q: "Fill in the blank: How long did the Civil Rights Movement last? _____.",
+        a: [{text: "1928 - 1935.", isCorrect: false},
+            {text: "1954 - 1968.", isCorrect: true},
+            {text: "1895 - 1900.", isCorrect: false},
+            {text: "2005 - 2010.", isCorrect: false},
+           ]
+    },
+    {
+        q: "Fill in the blank: Who were three people who contributed in the Civil Rights Movement? _____.",
+        a: [{text: "MLK Jr, Rosa Parks, and John Lewis.", isCorrect: true},
+            {text: "A. Phillip Randolph, Roy Wilkins, and Whitney Young.", isCorrect: false},
+            {text: "James Farmer, MLK Jr, and Whitney Young.", isCorrect: false},
+            {text: "Rosa Parks, James Farmer, and John Lewis.", isCorrect: false},
+           ]
+    },
 
 ]; 
 
