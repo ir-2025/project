@@ -53,12 +53,6 @@ a {
 a:link {
     color: white;
 }
-a:visited {
-    color: white;
-}
-a:hover {
-    color: white;
-}
 p {
     font-size: 20px;
     color: rgb(114, 114, 114);
