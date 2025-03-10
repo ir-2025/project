@@ -39,14 +39,6 @@ const Questions = [
             {text: "2005 - 2010.", isCorrect: false},
            ]
     },
-    {
-        q: "Fill in the blank: Who were three people who contributed in the Civil Rights Movement? _____.",
-        a: [{text: "MLK Jr, Rosa Parks, and John Lewis.", isCorrect: true},
-            {text: "A. Phillip Randolph, Roy Wilkins, and Whitney Young.", isCorrect: false},
-            {text: "James Farmer, MLK Jr, and Whitney Young.", isCorrect: false},
-            {text: "Rosa Parks, James Farmer, and John Lewis.", isCorrect: false},
-           ]
-    },
 
 ]; 
 
