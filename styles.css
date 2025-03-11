@@ -61,6 +61,6 @@ p {
     color: rgb(114, 114, 114);
 }
 a:active {
-    color: white;
+    color: gray;
     font-size: 16px;
 }
