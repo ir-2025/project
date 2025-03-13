@@ -2,33 +2,33 @@ const Questions = [
     {
         q: "Fill in the blank: Who was the last speaker at the March on Washington? _____.",
         a: [{text: "Rosa Parks.", isCorrect: false},
-            {text: "Martin Luther King Jr.", isCorrect: true},
             {text: "Roy Wilkins.", isCorrect: false},
             {text: "A. Phillip Randolph.", isCorrect: false},
+            {text: "Martin Luther King Jr.", isCorrect: true},
            ]
     },
     {
         q: "Fill in the blank: How long was the I have a dream speech?  _____.",
         a: [{text: "5 minutes.", isCorrect: false},
-            {text: "20 minutes.", isCorrect: false},
             {text: "17 minutes.", isCorrect: true},
+            {text: "20 minutes.", isCorrect: false},
             {text: "45 minutes.", isCorrect: false},
            ]
         },
     {
         q: "Fill in the blank: Where was the I have a dream speech held? _____.",
-        a: [{text: "Washington D.C.", isCorrect: true},
-            {text: "California.", isCorrect: false},
+        a: [{text: "California.", isCorrect: false},
             {text: "Georgia.", isCorrect: false},
+            {text: "Washington D.C.", isCorrect: true},
             {text: "Texas.", isCorrect: false},
            ]
     },
     {
         q: "Fill in the blank: How many people attended the march on washington? _____.",
         a: [{text: "50,000.", isCorrect: false},
-            {text: "75,000.", isCorrect: false},
             {text: "100,000.", isCorrect: false},
             {text: "250,000.", isCorrect: true},
+            {text: "75,000.", isCorrect: false},
            ]
     },
     {
